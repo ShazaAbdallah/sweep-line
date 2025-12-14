@@ -13,7 +13,7 @@ This approach has time complexity \(O(n^2)\), which becomes inefficient as the n
 
 To improve performance, this project implements a **sweep-line algorithm**, which runs in  
 \[
-O\big((n + k)\log n\big),
+O((n + k)log n),
 \]
 where \(k\) is the number of intersection points.
 
