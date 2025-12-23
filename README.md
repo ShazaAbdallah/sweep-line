@@ -1,6 +1,6 @@
 # Sweep Line Algorithm for Segment Intersections
 
-This project implements a **sweep-line algorithm** as part of a Computational Geometry homework assignment.
+This mini project (exercise) implements a **sweep-line algorithm** as part of a Computational Geometry homework assignment.
 
 Given a set of \(n\) line segments in the plane, the goal is to **count the number of intersection points** between them.
 
